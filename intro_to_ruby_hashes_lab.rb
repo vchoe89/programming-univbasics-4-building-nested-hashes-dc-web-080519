@@ -3,7 +3,7 @@ def monopoly
 	  :railroad => {}
 	  
 	}
-	
+	monopoly
 end
 
 
